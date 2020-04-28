@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>56692438751-6u6b94cbjin5vmfl2fkojtb40k3tr593.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.56692438751-6u6b94cbjin5vmfl2fkojtb40k3tr593</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbY_eCJuUE-5AG1Egiob6TKqFOfn7pOSk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>56692438751</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.flutter.flutter.app</string>
+	<key>PROJECT_ID</key>
+	<string>clustar-trial</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clustar-trial.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:56692438751:ios:6e29ddab4799a96567db6a</string>
+	<key>DATABASE_URL</key>
+	<string>https://clustar-trial.firebaseio.com</string>
+</dict>
+</plist>
